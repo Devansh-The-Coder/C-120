@@ -1,0 +1,46 @@
+body {
+    padding: 25px;
+    background-color: black;
+}
+.marquee {
+    background-color:  purple;
+    font-size: 20px;
+    color: white;
+    width: 100%;
+}
+.menu {
+    color: black;
+    font-size: 30px;
+    background-color: gold;
+    color: white;
+}
+.sub {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+.footer {
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    height: 50px;
+}
+.classifier {
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+canvas {
+    border: 5px dotted solid red;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px blue;
+    margin-top: 430px;
+}  
+.items {
+ background-color: red;
+ color: white;
+ font-size: 25px; 
+}
